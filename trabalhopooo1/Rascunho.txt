@@ -1,0 +1,17 @@
+codigo,nome,BI,dataP,dataC,valor,formaPag
+
+>criarObjCarro(codigo,nome,BI,dataP,dataC,valor,formaPag,nrKm,matricula,qtdCombs,valPortagem);
+
+//Carro
+1234+henrique+JP12345+10/10/2020+15/11/2020+250+p+T+C+120+Mzn123+60+12
+//Comboio
+1567+Jose+JP35643+09/11/2020+12/10/2021+625+D+T+O+123+Ferro
+//Aereo
+9012+Bernardo+XC12345+09/02/2022+07/06/2025+662+D+A+123+LAM
+
+>criarObjComboio(codigo,nome,BI,dataP,dataC,valor,formaPag,nrKm,tipoC);
+
+>criarObjAereo(codigo,nome,BI,dataP,dataC,valor,formaPag,qtdMilhas);
+//Mar
+9012+Japa+X9012345+06/06/2022+11/07/2025+992+D+M+123+Cruseiro
+>criarObjMar(codigo,nome,BI,dataP,dataC,valor,formaPag,tipo);
